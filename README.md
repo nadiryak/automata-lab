@@ -139,6 +139,8 @@ for each state and each symbol, there is **exactly one possible transition**.
 I also realized that the structure `dict[state][symbol] -> next_state` is literally the transition function
 δ : Q × Σ → Q from the course — the code and the formal definition map one-to-one.
 
+Refactoring the code into a class made sense naturally, a DFA has state, and so does an object.
+
 ---
 
 ## Next steps
