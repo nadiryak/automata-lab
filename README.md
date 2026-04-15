@@ -3,7 +3,7 @@ Implementation of a Deterministic Finite Automaton (DFA) and a Non-deterministic
 
 # Deterministic Finite Automaton (DFA) — Python Implementation
 
-This project comes directly from my **formal languages and automata** course this semester, and with some researches in internet, i've learned new things that we had not at school, but it wasn't the moment, i think it's programmed for next year, whatever, i tried to implement it.
+This project comes directly from my **formal languages and automata** course this semester, and with some researches in internet, i've learned new things that we had not at school, but it wasn't the moment for, i think it's programmed for next year, whatever, i tried to implement it.
 The goal was simple: go from the formal definition of a DFA to a concrete implementation, and verify that both describe exactly the same thing. The course gave me the theory — I just had to figure out how to make it run.
 
 ---
