@@ -280,7 +280,7 @@ The `set` data structure does all the heavy lifting — merging possible states 
 
 ---
 
-## Next steps
+## Next steps 
 
 * [ ] Add alphabet validation at initialization
 * [ ] NFA → DFA conversion (subset construction)
